@@ -52,6 +52,7 @@ void aim()
 	struct node *ptr1;
 	struct node *ptr2;
 	struct node *ptr;
+	//trying to make it user freindly..still in progress.
 	/*while(ptr1->info!=k)
 	{
 		ptr1=ptr1->link;
